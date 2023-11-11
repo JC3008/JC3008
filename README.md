@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Terraform, EKS, Kubernetes and GITOPS**
 
-- 👯 I would love to collaborate on **Data Engineering projects**
+- 👯 I've been working with data for about 8 years. Lately I've been working with:
+- Python, SQL, GIT, CI/CD, Airflow, EKS, Docker, Data Factory, Postgres, SQL Server and Pyspark.
+- I would love to collaborate on **Data Engineering projects**
 
 - I'm going to be glad getting help with **Airflow managed on AWS EKS**
 
