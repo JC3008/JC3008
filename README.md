@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Terraform, EKS, Kubernetes and GITOPS**
 
-- 👯 I would love to collaborate on **Data Engineering project**
+- 👯 I would love to collaborate on **Data Engineering projects**
 
 - I'm going to be glad getting help with **Airflow managed on AWS EKS**
 
