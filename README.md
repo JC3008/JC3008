@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm José Carlos</h1>
-<h3 align="center">A passionate Data Engineer and Analyst from Brasil</h3>
+<h3 align="center">A passionate Data Engineer from Brasil</h3>
 
 - 🌱 I’m currently learning **Terraform, EKS, Kubernetes and GITOPS**
 
