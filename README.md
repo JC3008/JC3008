@@ -6,7 +6,7 @@
 - 👯 I've been working with data for about 8 years. Lately I've been working with:
 - Python, SQL, GIT, CI/CD, Airflow, EKS, Docker, Data Factory, Postgres, SQL Server and Pyspark.
 - I would love to collaborate on **Data Engineering projects**
-- Currently I'm working on a project which fetches open data from Brazilian Stocks [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR). Maybe you want to check this out!
+- Currently I'm working on two personal projects which fetches open [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md). Maybe you want to check this out!
 
 - I'm going to be glad getting help with **Airflow managed on AWS EKS**
 
