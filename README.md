@@ -8,13 +8,12 @@
 - I would love to collaborate on **Data Engineering projects**
 - Currently I'm working on two personal projects that get data from open sources [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md). Maybe you want to check this out!
 
-- I'm going to be glad getting help with **Airflow managed on AWS EKS**
+- I'm going to be glad getting help with **Airflow managed on AWS and EKS**
 
 - 💬 Ask me about **Python, Taskflow, T-SQL,**
 
 - Reach me out on **josecarlos.ico@gmail.com**
 
-- ⚡ Fun fact **I'm passionate with 70's songs and singing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
