@@ -8,7 +8,7 @@
 - I would love to collaborate on **Data Engineering projects**
 - Currently I'm working on two personal projects that get data from open sources [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md). Maybe you want to check this out!
 
-- I'm going to be glad getting help with **EKS**. I have grew some knowledge on how to build the yaml manifests and how to monitor pods, namespaces and services by using eksctl and kubectl. But I'm still puzzled on provisioning it and running my dockerfile.
+- I'm going to be glad getting help with **EKS**. I have grew some knowledge on how to build the yaml manifests and how to monitor deployments, pods, namespaces and services by using eksctl and kubectl. But I'm still puzzled on provisioning it and running my dockerfile.
 
 - I would love talking about **Python, Taskflow, T-SQL**
 
