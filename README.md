@@ -1,12 +1,18 @@
 <h1 align="center">Hi there, I'm José Carlos</h1>
 <h3 align="center">Data Engineer / Analytics Engineer from Brasil</h3>
 
-- 🌱 I’m currently learning **Terraform, EKS, Kubernetes and GITOPS**
+- I’m currently learning **Terraform, EKS, Kubernetes and GITOPS**
 
-- 👯 I've been working with data for about 8 years. Lately I've been working with:
-- Python, SQL, GIT, CI/CD, Airflow, EKS, Docker, Data Factory, Postgres, SQL Server and Pyspark.
+- I've been working with data for about 9 years. Lately I've been working with:
+- Python, SQL, GIT, CI/CD, Airflow, EKS, AKS, GLUE, Docker, Data Factory, Postgres, SQL Server and Pyspark.
 - I would love to collaborate on **Data Engineering projects**
-- Currently I'm working on two personal projects that get data from open sources [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md). Maybe you want to check this out!
+- Currently I'm working on some personal projects that get data from open sources [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR),[DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md).
+-I have been working on these projects separately with the aim of understanding different architectures.
+On [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md) I applied SODA to implement Data Quality layer on Airflow based on Astro-python-SDK.
+On [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) I applied Terraform to create AWS resources [S3 bucket, RDS], and Docker to encapsulate the Python script for ELT.
+On [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) I am working on creating a Data Lakehouse, using AWS Glue. Also created a Kubernetes Cluster to orchestrate the Python Container and now I m focused on cretaing the Airflow Enviroment on AWS using EKS.
+
+- Maybe you want to check this out!
 
 - I'm going to be glad getting help with **EKS**. I have grew some knowledge on how to build the yaml manifests and how to monitor deployments, pods, namespaces and services by using eksctl and kubectl. But I'm still puzzled on provisioning it and running my dockerfile.
 
