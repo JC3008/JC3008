@@ -1,15 +1,16 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">Data Engineer / Analytics Engineer from Brasil</h3>
 
-# About me.
+## About me.
 My name is José Carlos and I live in Belo Horizonte - MG - BR. I work with Data for about nine years and along this journey I had the opportunity of solving many kinds of Data issues, using a bunch of different technologies.
 The last two years have been intense since I decided digging deep in Data Engineering world. <br>
 The bar chart bellow was developed by using plotly and it shows a resume of my skills. <br>
 
 
 ![Skills](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG)
-
-# Projects
+## Certification <br>
+[Apache Airflow Fundamentals](https://www.credly.com/badges/ec73f560-9b6f-4bb7-8aa6-82f2bfa5bf50) <br>
+## Projects
 Currently I'm working on some personal projects that get data from open sources [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR), [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md).   <br>
 I have been working on these projects separately with the aim of understanding different architectures.   <br>
 * On [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md) I applied SODA to implement Data Quality layer on Airflow based on Astro-python-SDK.   <br>
