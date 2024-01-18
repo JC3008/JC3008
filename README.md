@@ -16,14 +16,9 @@ I have been working on these projects separately with the aim of understanding d
 * On [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) I applied Terraform to create AWS resources [S3 bucket, RDS], and Docker to encapsulate the Python script for ELT.   <br>
 * On [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) I am working on creating a Data Lakehouse, using AWS Glue. Also created a Kubernetes Cluster to orchestrate the Python Container and now I m focused on cretaing the Airflow Enviroment on AWS using EKS.   <br>
 
-- Maybe you want to check this out!
-
 - I'm going to be glad getting help with **EKS**. I have grew some knowledge on how to build the yaml manifests and how to monitor deployments, pods, namespaces and services by using eksctl and kubectl. But I'm still puzzled on provisioning it and running my dockerfile.
 
-- I would love talking about **Python, Taskflow, T-SQL**
-
 - Reach me out on **josecarlos.ico@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
