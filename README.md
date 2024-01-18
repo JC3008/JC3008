@@ -4,7 +4,6 @@
 # About me.
 My name is José Carlos and I live in Belo Horizonte - MG - BR. I work with Data for about nine years and along this journey I had the opportunity of solving many kinds of Data issues, using a bunch of different technologies.
 The last two years have been intense since I decided to digging deep in Data Engineering world.
-- Python, SQL, GIT, CI/CD, Airflow, EKS, AKS, GLUE, Docker, Data Factory, Postgres, SQL Server and Pyspark.
 ![Skills](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG)
 
 # Projects
