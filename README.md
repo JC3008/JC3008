@@ -1,15 +1,14 @@
 <h1 align="center">Hi there, I'm José Carlos</h1>
 <h3 align="center">Data Engineer / Analytics Engineer from Brasil</h3>
 
-- I’m currently learning **Terraform, EKS, Kubernetes and GITOPS**
 # About me.
-- I've been working with data for about 9 years. Lately I've been working with:
+My name is José Carlos and I live in Belo Horizonte - MG - BR. I work with Data for about nine years and along this journey I had the opportunity of solving many kinds of Data issues, using a bunch of different technologies.
+The last two years have been intense since I decided to digging deep in Data Engineering world.
 - Python, SQL, GIT, CI/CD, Airflow, EKS, AKS, GLUE, Docker, Data Factory, Postgres, SQL Server and Pyspark.
-- I would love to collaborate on **Data Engineering projects**
 
 # Projects
 Currently I'm working on some personal projects that get data from open sources [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR),[DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md).   <br>
--I have been working on these projects separately with the aim of understanding different architectures.   <br>
+I have been working on these projects separately with the aim of understanding different architectures.   <br>
 * On [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md) I applied SODA to implement Data Quality layer on Airflow based on Astro-python-SDK.   <br>
 * On [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) I applied Terraform to create AWS resources [S3 bucket, RDS], and Docker to encapsulate the Python script for ELT.   <br>
 * On [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) I am working on creating a Data Lakehouse, using AWS Glue. Also created a Kubernetes Cluster to orchestrate the Python Container and now I m focused on cretaing the Airflow Enviroment on AWS using EKS.   <br>
