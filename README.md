@@ -3,7 +3,7 @@
 
 # About me.
 My name is José Carlos and I live in Belo Horizonte - MG - BR. I work with Data for about nine years and along this journey I had the opportunity of solving many kinds of Data issues, using a bunch of different technologies.
-The last two years have been intense since I decided to digging deep in Data Engineering world.
+The last two years have been intense since I decided to digging deep in Data Engineering world. <br>
 The bar chart bellow was developed by using plotly and it shows a resume of my skills. <br>
 
 
