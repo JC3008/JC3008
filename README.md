@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm José Carlos</h1>
+<h1 align="center">Hi there!</h1>
 <h3 align="center">Data Engineer / Analytics Engineer from Brasil</h3>
 
 # About me.
