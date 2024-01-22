@@ -5,7 +5,7 @@
 My name is José Carlos and I live in Belo Horizonte - MG - BR. I work with Data for about nine years and along this journey I had the opportunity of solving many kinds of Data issues, using a bunch of different technologies.
 The last two years have been intense since I decided digging deep in Data Engineering world. <br>
 The bar chart bellow was developed by using plotly and it shows a resume of my skills. <br>
-
+[Curriculo PT-BR](curriculo José Carlos Janeiro 2024.pdf)
 
 ![Skills](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/images/Skills.PNG)
 ## Certification <br>
