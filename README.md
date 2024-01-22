@@ -10,7 +10,7 @@ The bar chart bellow was developed by using plotly and it shows a resume of my s
 ## Certification <br>
 [Apache Airflow Fundamentals](https://www.credly.com/badges/ec73f560-9b6f-4bb7-8aa6-82f2bfa5bf50) <br>
 
-### Work Experience
+## Work Experience
 [Curriculo PT-BR](https://github.com/JC3008/JC3008/blob/dev/curriculo%20Jos%C3%A9%20Carlos%20Janeiro%202024.pdf)
 
 
