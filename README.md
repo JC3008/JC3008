@@ -15,13 +15,15 @@ The bar chart bellow was developed by using plotly and it shows a resume of my s
 
 
 ## Projects
-Currently I'm working on some personal projects that get data from open sources [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR), [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) and [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md).   <br>
-I have been working on these projects separately with the aim of understanding different architectures.   <br>
-* On [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md) I applied SODA to implement Data Quality layer on Airflow based on Astro-python-SDK.   <br>
-* On [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) I applied Terraform to create AWS resources [S3 bucket, RDS], and Docker to encapsulate the Python script for ELT.   <br>
-* On [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md) I am working on creating a Data Lakehouse, using AWS Glue. Also created a Kubernetes Cluster to orchestrate the Python Container and now I m focused on cretaing the Airflow Enviroment on AWS using EKS.   <br>
+Currently I'm working on a personal projects that get data from open sources [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md).   <br>
 
-- I'm going to be glad getting help with **EKS**. I have grew some knowledge on how to build the yaml manifests and how to monitor deployments, pods, namespaces and services by using eksctl and kubectl. But I'm still puzzled on provisioning it and running my dockerfile.
+I have been working on these repositories separately with the aim of understanding different architectures. But currently I am focused on [DataEngineering_Kubernetes](https://github.com/JC3008/DataEngineering_Kubernetes/blob/dev/Readme.md)   <br>
+I am working on creating a Data Lakehouse, using AWS Glue. Also created a Kubernetes Cluster to orchestrate the Python Container and now I m focused on cretaing the Airflow Enviroment on AWS using EKS.   <br>
+
+* On [Data_Quality_On_Airflow](https://github.com/JC3008/data_quality_on_airflow/blob/dev/README.md) repository I applied SODA framework to implement Data Quality layer on Airflow based on Astro-python-SDK.   <br>
+* On [DadosEconomicosBR](https://github.com/JC3008/DadosEconomicosBR) repository I applied Terraform **IAC** to create AWS resources [S3 bucket, RDS], and Docker to encapsulate the Python script for ELT.   <br>
+
+- I'm going to be glad getting help with **EKS - VPC - Subnets** and its best practices. I have grew some knowledge on how to build the yaml manifests and how to monitor deployments, pods, namespaces and services by using eksctl and kubectl. But I'm still puzzled on provisioning it and running my dockerfile.
 
 - Reach me out on **josecarlos.ico@gmail.com**
 
